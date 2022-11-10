@@ -114,15 +114,14 @@ section article div div:last-child{
   }
 
   section article small {
-    font-size: 12px;    
+    font-size: 12px;  
+    min-height: 70px;
+    display: block;
   }
 
   section article img {
     border-radius: 50%;
   }
-
-
-  
 } 
 
 
@@ -165,6 +164,8 @@ section article div div:last-child{
 
   section article small {
     color: black;
+    min-height: 70px;
+    display: block;
   }
 
   span {
